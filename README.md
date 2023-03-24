@@ -22,16 +22,9 @@ Attack multiple blackbox models of different tasks simultaneously using a single
 
 Attack video object detection.
 
-<center>
-<video width="800" controls>
-  <source src="doc/vid_cars.mp4" type="video/mp4">
-</video>
+<div style="padding:33.33% 0 0 0;position:relative;"><iframe src="https://player.vimeo.com/video/811461221?h=3e0765a066&amp;badge=0&amp;autopause=0&amp;player_id=0&amp;app_id=58479" frameborder="0" allow="autoplay; fullscreen; picture-in-picture" allowfullscreen style="position:absolute;top:0;left:0;width:80%;height:80%;" title="EBAD_video_jets"></iframe></div><script src="https://player.vimeo.com/api/player.js"></script>
 
-<video width="800" controls>
-  <source src="doc/vid_jets.mp4" type="video/mp4">
-</video>
-</center>
-
+<div style="padding:33.33% 0 0 0;position:relative;"><iframe src="https://player.vimeo.com/video/811461200?h=b2a3a41f62&amp;badge=0&amp;autopause=0&amp;player_id=0&amp;app_id=58479" frameborder="0" allow="autoplay; fullscreen; picture-in-picture" allowfullscreen style="position:absolute;top:0;left:0;width:80%;height:80%;" title="EBAD_video_cars.mp4"></iframe></div><script src="https://player.vimeo.com/api/player.js"></script>
 
 ## Environment
 
