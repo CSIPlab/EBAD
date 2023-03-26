@@ -5,7 +5,7 @@
 Pytorch implementation of *Ensemble-based Blackbox Attacks on Dense Prediction* in CVPR 2023.
 
 [Ensemble-based Blackbox Attacks on Dense Prediction](https://arxiv.org/abs/2208.03610)  
- [Zikui Cai](https://zikuicai.github.io/), Yaoteng Tan, [M. Salman Asif](https://intra.ece.ucr.edu/~sasif/)<br>
+ [Zikui Cai](https://zikuicai.github.io/), [Yaoteng Tan](https://ytengtan.github.io/), [M. Salman Asif](https://intra.ece.ucr.edu/~sasif/)<br>
  UC Riverside 
 
 We propose an approach for adversarial attacks on dense prediction models (such as object detectors and segmentation). In this paper, we show that a carefully designed ensemble can create effective attacks for a number of victim models. In particular, we show that normalization of the weights for individual models plays a critical role in the success of the attacks. We then demonstrate that by adjusting the weights of the ensemble according to the victim model can further improve the performance of the attacks. Finally, we show that our proposed method can also generate a single perturbation that can fool multiple blackbox detection and segmentation models simultaneously.
