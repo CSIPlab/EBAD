@@ -73,9 +73,9 @@ Download and prepare Cityscapes and VOC datasets by the [instructions](https://m
 def simple_test(self, img, img_meta, rescale=True):
     """Simple test with single image."""
     seg_logit = self.inference(img, img_meta, rescale)
-    seg_pred = seg_logit.argmax(dim=1) # gt
+    seg_pred = seg_logit.argmax(dim=1) # clean prediction
     seg_pred_ll = seg_logit.argmin(dim=1)  # least likely
-    seg_pred_ml = seg_logit.topk(2, dim=1).indices[:, 1, :] # mose likely
+    seg_pred_ml = seg_logit.topk(2, dim=1).indices[:, 1, :] # 2nd-most likely
     if torch.onnx.is_in_onnx_export():
         # our inference backend only support 4D output
         seg_pred = seg_pred.unsqueeze(0)
