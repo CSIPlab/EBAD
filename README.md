@@ -99,3 +99,7 @@ def simple_test(self, img, img_meta, rescale=True):
 
 ### Joint attack
 To perform attacks on object detection and segmentation jointly, run ```python attack_bb_det_seg.py```.
+
+
+## Acknowledgement
+We thank the models support from [MMCV](https://github.com/open-mmlab/mmcv).
