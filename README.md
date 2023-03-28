@@ -94,7 +94,7 @@ def simple_test(self, img, img_meta, rescale=True):
 5. run ```python attack_bb_seg.py --target ll --n_wb 2 --iterw 20 --n_imgs 10 --victim PSPNet --data cityscapes```
     to perform a N=2, Q=20 targeted ensemble attack using least-likely label against PSPNet on 20 Cityscapes images
     
-    Use ```-untarget``` option to perform untargeted attack.
+    Use ```-untargeted``` option to perform untargeted attack.
     Use ```-save_queries``` to save visualization of each attack query result, and use ```-visualize``` to save visualization of our attack.
 
 ### Joint attack
