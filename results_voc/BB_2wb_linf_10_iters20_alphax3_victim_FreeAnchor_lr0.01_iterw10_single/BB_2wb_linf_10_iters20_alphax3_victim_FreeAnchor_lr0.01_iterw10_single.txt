@@ -1,0 +1,1811 @@
+im_idx: 0, im_id: 000006, victim_class: chair, target_class: train
+
+
+im_idx: 0, id: 000006, query: 0, loss_bb: 1000.7841, w: [0.97750878 0.02249122]
+im_idx: 1, im_id: 000010, victim_class: person, target_class: bird
+
+
+im_idx: 1, id: 000010, query: 0, loss_bb: 1000.9963, w: [0.98050768 0.01949232]
+im_idx: 2, im_id: 000022, victim_class: person, target_class: tvmonitor
+
+
+im_idx: 3, im_id: 000059, victim_class: person, target_class: cow
+
+
+im_idx: 3, id: 000059, query: 3, loss_bb: 1000.8178, w: [0.96788338 0.02238695]
+im_idx: 4, im_id: 000069, victim_class: train, target_class: horse
+
+
+im_idx: 4, id: 000069, query: 0, loss_bb: 1000.6433, w: [0.98707253 0.01292747]
+im_idx: 5, im_id: 000070, victim_class: pottedplant, target_class: motorbike
+
+
+im_idx: 6, im_id: 000085, victim_class: person, target_class: train
+
+
+im_idx: 6, id: 000085, query: 7, loss_bb: 1000.7890, w: [0.96640435 0.02130328]
+im_idx: 7, im_id: 000097, victim_class: sofa, target_class: boat
+
+
+im_idx: 7, id: 000097, query: 0, loss_bb: 1000.8178, w: [0.97887323 0.02112677]
+im_idx: 8, im_id: 000105, victim_class: boat, target_class: dog
+
+
+im_idx: 9, im_id: 000116, victim_class: sofa, target_class: cow
+
+
+im_idx: 9, id: 000116, query: 0, loss_bb: 1000.6439, w: [0.98461402 0.01538598]
+im_idx: 10, im_id: 000124, victim_class: person, target_class: car
+
+
+im_idx: 10, id: 000124, query: 0, loss_bb: 1000.8860, w: [0.99482628 0.00517372]
+im_idx: 11, im_id: 000127, victim_class: bird, target_class: bicycle
+
+
+im_idx: 12, im_id: 000137, victim_class: person, target_class: dog
+
+
+im_idx: 13, im_id: 000139, victim_class: person, target_class: boat
+
+
+im_idx: 13, id: 000139, query: 3, loss_bb: 1000.8550, w: [0.97343934 0.00996068]
+im_idx: 14, im_id: 000151, victim_class: bottle, target_class: bicycle
+
+
+im_idx: 14, id: 000151, query: 2, loss_bb: 1000.6974, w: [1.00083568 0.01635073]
+im_idx: 15, im_id: 000160, victim_class: sofa, target_class: bicycle
+
+
+im_idx: 15, id: 000160, query: 3, loss_bb: 1000.7916, w: [0.96422344 0.01875763]
+im_idx: 16, im_id: 000166, victim_class: person, target_class: boat
+
+
+im_idx: 17, im_id: 000168, victim_class: horse, target_class: boat
+
+
+im_idx: 17, id: 000168, query: 0, loss_bb: 1000.8617, w: [0.96833324 0.03166676]
+im_idx: 18, im_id: 000181, victim_class: chair, target_class: train
+
+
+im_idx: 18, id: 000181, query: 9, loss_bb: 1000.7255, w: [0.97559785 0.02426845]
+im_idx: 19, im_id: 000185, victim_class: chair, target_class: cat
+
+
+im_idx: 19, id: 000185, query: 3, loss_bb: 1000.6677, w: [0.96902966 0.0166169 ]
+im_idx: 20, im_id: 000188, victim_class: car, target_class: horse
+
+
+im_idx: 20, id: 000188, query: 0, loss_bb: 1000.6002, w: [0.97935567 0.02064433]
+im_idx: 21, im_id: 000196, victim_class: chair, target_class: sheep
+
+
+im_idx: 22, im_id: 000038, victim_class: car, target_class: pottedplant
+
+
+im_idx: 22, id: 000038, query: 8, loss_bb: 1000.6682, w: [0.96866881 0.03153701]
+im_idx: 23, im_id: 000319, victim_class: horse, target_class: bird
+
+
+im_idx: 23, id: 000319, query: 8, loss_bb: 1000.6621, w: [0.97804012 0.02209696]
+im_idx: 24, im_id: 000393, victim_class: horse, target_class: train
+
+
+im_idx: 24, id: 000393, query: 0, loss_bb: 1000.7600, w: [0.97665843 0.02334157]
+im_idx: 25, im_id: 000586, victim_class: car, target_class: motorbike
+
+
+im_idx: 25, id: 000586, query: 0, loss_bb: 1000.9761, w: [0.98150166 0.01849834]
+im_idx: 26, im_id: 000658, victim_class: chair, target_class: bus
+
+
+im_idx: 26, id: 000658, query: 8, loss_bb: 1000.7582, w: [0.97050624 0.02970481]
+im_idx: 27, im_id: 000201, victim_class: motorbike, target_class: aeroplane
+
+
+im_idx: 28, im_id: 000202, victim_class: bottle, target_class: horse
+
+
+im_idx: 28, id: 000202, query: 3, loss_bb: 1000.6344, w: [0.96915457 0.01241866]
+im_idx: 29, im_id: 000205, victim_class: dog, target_class: pottedplant
+
+
+im_idx: 29, id: 000205, query: 2, loss_bb: 1000.7467, w: [0.99316685 0.0191638 ]
+im_idx: 30, im_id: 000223, victim_class: train, target_class: bird
+
+
+im_idx: 30, id: 000223, query: 2, loss_bb: 1000.6636, w: [0.98640696 0.02740417]
+im_idx: 31, im_id: 000230, victim_class: bicycle, target_class: aeroplane
+
+
+im_idx: 32, im_id: 000234, victim_class: chair, target_class: cow
+
+
+im_idx: 33, im_id: 000237, victim_class: horse, target_class: sheep
+
+
+im_idx: 33, id: 000237, query: 0, loss_bb: 1000.8681, w: [0.98571689 0.01428311]
+im_idx: 34, im_id: 000238, victim_class: train, target_class: bird
+
+
+im_idx: 34, id: 000238, query: 0, loss_bb: 1000.9314, w: [0.98689813 0.01310187]
+im_idx: 35, im_id: 000239, victim_class: bus, target_class: bird
+
+
+im_idx: 36, im_id: 000247, victim_class: person, target_class: sheep
+
+
+im_idx: 36, id: 000247, query: 2, loss_bb: 1000.6358, w: [0.99293141 0.01998105]
+im_idx: 37, im_id: 000248, victim_class: cow, target_class: bottle
+
+
+im_idx: 38, im_id: 000252, victim_class: car, target_class: sheep
+
+
+im_idx: 39, im_id: 000260, victim_class: person, target_class: pottedplant
+
+
+im_idx: 40, im_id: 000264, victim_class: car, target_class: bird
+
+
+im_idx: 40, id: 000264, query: 2, loss_bb: 1000.9661, w: [1.00937465 0.00816131]
+im_idx: 41, im_id: 000265, victim_class: person, target_class: cat
+
+
+im_idx: 41, id: 000265, query: 0, loss_bb: 1000.9005, w: [0.98919908 0.01080092]
+im_idx: 42, im_id: 000283, victim_class: person, target_class: sofa
+
+
+im_idx: 43, im_id: 000291, victim_class: tvmonitor, target_class: sofa
+
+
+im_idx: 43, id: 000291, query: 0, loss_bb: 1000.9474, w: [0.98691842 0.01308158]
+im_idx: 44, im_id: 000293, victim_class: person, target_class: cow
+
+
+im_idx: 44, id: 000293, query: 4, loss_bb: 1000.9208, w: [0.98481467 0.01533344]
+im_idx: 45, im_id: 000297, victim_class: cow, target_class: bus
+
+
+im_idx: 46, im_id: 000299, victim_class: chair, target_class: train
+
+
+im_idx: 46, id: 000299, query: 9, loss_bb: 1000.6281, w: [0.97248941 0.02732714]
+im_idx: 47, im_id: 000330, victim_class: horse, target_class: sofa
+
+
+im_idx: 47, id: 000330, query: 0, loss_bb: 1000.7111, w: [0.97949731 0.02050269]
+im_idx: 48, im_id: 000342, victim_class: person, target_class: chair
+
+
+im_idx: 48, id: 000342, query: 0, loss_bb: 1000.9443, w: [0.98980798 0.01019202]
+im_idx: 49, im_id: 000348, victim_class: person, target_class: bus
+
+
+im_idx: 50, im_id: 000353, victim_class: motorbike, target_class: cow
+
+
+im_idx: 50, id: 000353, query: 0, loss_bb: 1000.8773, w: [0.98012444 0.01987556]
+im_idx: 51, im_id: 000356, victim_class: horse, target_class: bicycle
+
+
+im_idx: 51, id: 000356, query: 0, loss_bb: 1000.9460, w: [0.98499137 0.01500863]
+im_idx: 52, im_id: 000358, victim_class: car, target_class: bird
+
+
+im_idx: 52, id: 000358, query: 0, loss_bb: 1000.9274, w: [0.96504696 0.03495304]
+im_idx: 53, im_id: 000364, victim_class: motorbike, target_class: boat
+
+
+im_idx: 53, id: 000364, query: 0, loss_bb: 1000.8949, w: [0.99157527 0.00842473]
+im_idx: 54, im_id: 000369, victim_class: person, target_class: car
+
+
+im_idx: 54, id: 000369, query: 0, loss_bb: 1000.6728, w: [0.98934239 0.01065761]
+im_idx: 55, im_id: 000375, victim_class: boat, target_class: person
+
+
+im_idx: 56, im_id: 000378, victim_class: person, target_class: bird
+
+
+im_idx: 56, id: 000378, query: 0, loss_bb: 1000.8522, w: [0.98495615 0.01504385]
+im_idx: 57, im_id: 000386, victim_class: cow, target_class: bus
+
+
+im_idx: 58, im_id: 000392, victim_class: horse, target_class: aeroplane
+
+
+im_idx: 58, id: 000392, query: 0, loss_bb: 1000.9815, w: [0.97441783 0.02558217]
+im_idx: 59, im_id: 000410, victim_class: person, target_class: pottedplant
+
+
+im_idx: 59, id: 000410, query: 7, loss_bb: 1000.7547, w: [0.95628097 0.02585503]
+im_idx: 60, im_id: 000414, victim_class: bottle, target_class: horse
+
+
+im_idx: 61, im_id: 000418, victim_class: person, target_class: diningtable
+
+
+im_idx: 62, im_id: 000421, victim_class: tvmonitor, target_class: bus
+
+
+im_idx: 62, id: 000421, query: 0, loss_bb: 1000.7646, w: [0.99128443 0.00871557]
+im_idx: 63, im_id: 000422, victim_class: dog, target_class: bird
+
+
+im_idx: 63, id: 000422, query: 0, loss_bb: 1000.9832, w: [0.99146956 0.00853044]
+im_idx: 64, im_id: 000429, victim_class: pottedplant, target_class: cat
+
+
+im_idx: 65, im_id: 000434, victim_class: horse, target_class: diningtable
+
+
+im_idx: 65, id: 000434, query: 9, loss_bb: 1000.7500, w: [0.97226724 0.02750944]
+im_idx: 66, im_id: 000447, victim_class: person, target_class: bird
+
+
+im_idx: 66, id: 000447, query: 0, loss_bb: 1000.9012, w: [0.99113034 0.00886966]
+im_idx: 67, im_id: 000453, victim_class: car, target_class: bottle
+
+
+im_idx: 67, id: 000453, query: 0, loss_bb: 1000.7920, w: [0.9821366 0.0178634]
+im_idx: 68, im_id: 000458, victim_class: person, target_class: bicycle
+
+
+im_idx: 68, id: 000458, query: 0, loss_bb: 1000.6665, w: [0.97615174 0.02384826]
+im_idx: 69, im_id: 000465, victim_class: person, target_class: bird
+
+
+im_idx: 69, id: 000465, query: 0, loss_bb: 1000.7906, w: [0.97704862 0.02295138]
+im_idx: 70, im_id: 000479, victim_class: person, target_class: sheep
+
+
+im_idx: 71, im_id: 000487, victim_class: sofa, target_class: bottle
+
+
+im_idx: 71, id: 000487, query: 5, loss_bb: 1000.7020, w: [0.97583641 0.02391808]
+im_idx: 72, im_id: 000497, victim_class: person, target_class: car
+
+
+im_idx: 72, id: 000497, query: 2, loss_bb: 1000.7984, w: [1.01126623 0.00800083]
+im_idx: 73, im_id: 000504, victim_class: cow, target_class: aeroplane
+
+
+im_idx: 73, id: 000504, query: 0, loss_bb: 1000.9314, w: [0.97871081 0.02128919]
+im_idx: 74, im_id: 000506, victim_class: dog, target_class: diningtable
+
+
+im_idx: 75, im_id: 000517, victim_class: dog, target_class: diningtable
+
+
+im_idx: 76, im_id: 000532, victim_class: person, target_class: cow
+
+
+im_idx: 76, id: 000532, query: 0, loss_bb: 1000.9477, w: [0.99194547 0.00805453]
+im_idx: 77, im_id: 000538, victim_class: person, target_class: dog
+
+
+im_idx: 78, im_id: 000539, victim_class: horse, target_class: bottle
+
+
+im_idx: 78, id: 000539, query: 0, loss_bb: 1000.7619, w: [0.97661524 0.02338476]
+im_idx: 79, im_id: 000546, victim_class: chair, target_class: bicycle
+
+
+im_idx: 79, id: 000546, query: 0, loss_bb: 1000.7269, w: [0.98879941 0.01120059]
+im_idx: 80, im_id: 000562, victim_class: person, target_class: horse
+
+
+im_idx: 80, id: 000562, query: 0, loss_bb: 1000.7973, w: [0.98886822 0.01113178]
+im_idx: 81, im_id: 000567, victim_class: bicycle, target_class: chair
+
+
+im_idx: 81, id: 000567, query: 2, loss_bb: 1000.6781, w: [1.01040491 0.00991311]
+im_idx: 82, im_id: 000570, victim_class: motorbike, target_class: aeroplane
+
+
+im_idx: 82, id: 000570, query: 0, loss_bb: 1000.9932, w: [0.97849698 0.02150302]
+im_idx: 83, im_id: 000573, victim_class: chair, target_class: person
+
+
+im_idx: 83, id: 000573, query: 0, loss_bb: 1000.9926, w: [0.98807565 0.01192435]
+im_idx: 84, im_id: 000575, victim_class: pottedplant, target_class: cow
+
+
+im_idx: 84, id: 000575, query: 0, loss_bb: 1000.6976, w: [0.98767609 0.01232391]
+im_idx: 85, im_id: 000584, victim_class: sofa, target_class: diningtable
+
+
+im_idx: 85, id: 000584, query: 0, loss_bb: 1000.7827, w: [0.98862317 0.01137683]
+im_idx: 86, im_id: 000585, victim_class: car, target_class: pottedplant
+
+
+im_idx: 86, id: 000585, query: 2, loss_bb: 1000.9558, w: [1.01105535 0.01555365]
+im_idx: 87, im_id: 000587, victim_class: person, target_class: dog
+
+
+im_idx: 87, id: 000587, query: 0, loss_bb: 1000.6339, w: [0.98700649 0.01299351]
+im_idx: 88, im_id: 000595, victim_class: chair, target_class: tvmonitor
+
+
+im_idx: 88, id: 000595, query: 0, loss_bb: 1000.7992, w: [0.99006844 0.00993156]
+im_idx: 89, im_id: 000606, victim_class: person, target_class: dog
+
+
+im_idx: 89, id: 000606, query: 0, loss_bb: 1000.9088, w: [0.99184366 0.00815634]
+im_idx: 90, im_id: 000607, victim_class: person, target_class: aeroplane
+
+
+im_idx: 91, im_id: 000611, victim_class: dog, target_class: cow
+
+
+im_idx: 91, id: 000611, query: 0, loss_bb: 1000.9991, w: [0.99335425 0.00664575]
+im_idx: 92, im_id: 000615, victim_class: person, target_class: bus
+
+
+im_idx: 92, id: 000615, query: 2, loss_bb: 1000.9138, w: [0.99906106 0.011647  ]
+im_idx: 93, im_id: 000616, victim_class: horse, target_class: bus
+
+
+im_idx: 93, id: 000616, query: 2, loss_bb: 1000.6494, w: [0.99036558 0.02572335]
+im_idx: 94, im_id: 000617, victim_class: chair, target_class: cow
+
+
+im_idx: 94, id: 000617, query: 0, loss_bb: 1000.6982, w: [0.99486749 0.00513251]
+im_idx: 95, im_id: 000623, victim_class: person, target_class: car
+
+
+im_idx: 96, im_id: 000630, victim_class: motorbike, target_class: sofa
+
+
+im_idx: 96, id: 000630, query: 0, loss_bb: 1000.8329, w: [0.97356941 0.02643059]
+im_idx: 97, im_id: 000636, victim_class: person, target_class: bottle
+
+
+im_idx: 98, im_id: 000644, victim_class: tvmonitor, target_class: bus
+
+
+im_idx: 98, id: 000644, query: 0, loss_bb: 1000.9133, w: [0.97977482 0.02022518]
+im_idx: 99, im_id: 000649, victim_class: car, target_class: bird
+
+
+im_idx: 99, id: 000649, query: 2, loss_bb: 1000.9744, w: [0.9798013  0.03245998]
+im_idx: 100, im_id: 000652, victim_class: chair, target_class: tvmonitor
+
+
+im_idx: 100, id: 000652, query: 2, loss_bb: 1000.6345, w: [1.00650685 0.01434216]
+im_idx: 101, im_id: 000655, victim_class: car, target_class: bus
+
+
+im_idx: 101, id: 000655, query: 4, loss_bb: 1000.6203, w: [0.98392705 0.01636548]
+im_idx: 102, im_id: 000666, victim_class: person, target_class: diningtable
+
+
+im_idx: 103, im_id: 000668, victim_class: aeroplane, target_class: car
+
+
+im_idx: 103, id: 000668, query: 2, loss_bb: 1000.8677, w: [1.01460026 0.01391671]
+im_idx: 104, im_id: 000704, victim_class: horse, target_class: bottle
+
+
+im_idx: 105, im_id: 000723, victim_class: person, target_class: dog
+
+
+im_idx: 105, id: 000723, query: 3, loss_bb: 1000.6466, w: [0.97056422 0.01055337]
+im_idx: 106, im_id: 000727, victim_class: car, target_class: horse
+
+
+im_idx: 106, id: 000727, query: 2, loss_bb: 1000.6356, w: [1.00705974 0.01055857]
+im_idx: 107, im_id: 000734, victim_class: dog, target_class: motorbike
+
+
+im_idx: 107, id: 000734, query: 0, loss_bb: 1000.6900, w: [0.98245838 0.01754162]
+im_idx: 108, im_id: 000735, victim_class: person, target_class: motorbike
+
+
+im_idx: 108, id: 000735, query: 11, loss_bb: 1000.6277, w: [0.95018022 0.03069512]
+im_idx: 109, im_id: 000749, victim_class: chair, target_class: bus
+
+
+im_idx: 109, id: 000749, query: 5, loss_bb: 1000.6277, w: [0.97254717 0.02718477]
+im_idx: 110, im_id: 000758, victim_class: tvmonitor, target_class: horse
+
+
+im_idx: 110, id: 000758, query: 2, loss_bb: 1000.8525, w: [1.00652415 0.01080658]
+im_idx: 111, im_id: 000783, victim_class: horse, target_class: chair
+
+
+im_idx: 111, id: 000783, query: 0, loss_bb: 1000.8866, w: [0.9885141 0.0114859]
+im_idx: 112, im_id: 000790, victim_class: diningtable, target_class: chair
+
+
+im_idx: 112, id: 000790, query: 0, loss_bb: 1000.9196, w: [0.98628695 0.01371305]
+im_idx: 113, im_id: 000819, victim_class: bicycle, target_class: train
+
+
+im_idx: 113, id: 000819, query: 2, loss_bb: 1000.6345, w: [0.99736416 0.02179866]
+im_idx: 114, im_id: 000836, victim_class: horse, target_class: sheep
+
+
+im_idx: 114, id: 000836, query: 0, loss_bb: 1000.8291, w: [0.98169927 0.01830073]
+im_idx: 115, im_id: 000840, victim_class: pottedplant, target_class: boat
+
+
+im_idx: 115, id: 000840, query: 0, loss_bb: 1000.8985, w: [0.99103904 0.00896096]
+im_idx: 116, im_id: 000856, victim_class: chair, target_class: motorbike
+
+
+im_idx: 117, im_id: 000866, victim_class: car, target_class: cat
+
+
+im_idx: 117, id: 000866, query: 0, loss_bb: 1000.6802, w: [0.99060806 0.00939194]
+im_idx: 118, im_id: 000886, victim_class: chair, target_class: motorbike
+
+
+im_idx: 118, id: 000886, query: 0, loss_bb: 1000.8765, w: [0.98844495 0.01155505]
+im_idx: 119, im_id: 000913, victim_class: dog, target_class: sheep
+
+
+im_idx: 119, id: 000913, query: 0, loss_bb: 1000.9955, w: [0.98923507 0.01076493]
+im_idx: 120, im_id: 000916, victim_class: person, target_class: bottle
+
+
+im_idx: 121, im_id: 000924, victim_class: bus, target_class: chair
+
+
+im_idx: 122, im_id: 000930, victim_class: bicycle, target_class: cow
+
+
+im_idx: 123, im_id: 000938, victim_class: sofa, target_class: dog
+
+
+im_idx: 123, id: 000938, query: 0, loss_bb: 1000.9990, w: [0.9859874 0.0140126]
+im_idx: 124, im_id: 000940, victim_class: person, target_class: diningtable
+
+
+im_idx: 125, im_id: 000953, victim_class: pottedplant, target_class: sheep
+
+
+im_idx: 126, im_id: 000974, victim_class: sofa, target_class: horse
+
+
+im_idx: 126, id: 000974, query: 0, loss_bb: 1000.6334, w: [0.97581622 0.02418378]
+im_idx: 127, im_id: 000979, victim_class: person, target_class: bottle
+
+
+im_idx: 127, id: 000979, query: 0, loss_bb: 1000.6227, w: [0.98587859 0.01412141]
+im_idx: 128, im_id: 001026, victim_class: person, target_class: pottedplant
+
+
+im_idx: 128, id: 001026, query: 0, loss_bb: 1000.9327, w: [0.98876301 0.01123699]
+im_idx: 129, im_id: 001030, victim_class: train, target_class: bottle
+
+
+im_idx: 130, im_id: 001031, victim_class: motorbike, target_class: car
+
+
+im_idx: 130, id: 001031, query: 4, loss_bb: 1000.6542, w: [0.97610156 0.02433173]
+im_idx: 131, im_id: 001033, victim_class: bicycle, target_class: pottedplant
+
+
+im_idx: 131, id: 001033, query: 2, loss_bb: 1000.6016, w: [0.98521712 0.02882045]
+im_idx: 132, im_id: 001047, victim_class: person, target_class: horse
+
+
+im_idx: 133, im_id: 001048, victim_class: sofa, target_class: chair
+
+
+im_idx: 133, id: 001048, query: 0, loss_bb: 1000.9604, w: [0.98512335 0.01487665]
+im_idx: 134, im_id: 001076, victim_class: boat, target_class: pottedplant
+
+
+im_idx: 135, im_id: 001081, victim_class: chair, target_class: bottle
+
+
+im_idx: 135, id: 001081, query: 0, loss_bb: 1000.7907, w: [0.98345315 0.01654685]
+im_idx: 136, im_id: 001086, victim_class: person, target_class: tvmonitor
+
+
+im_idx: 136, id: 001086, query: 4, loss_bb: 1000.6003, w: [0.98082308 0.01945384]
+im_idx: 137, im_id: 001096, victim_class: bicycle, target_class: motorbike
+
+
+im_idx: 137, id: 001096, query: 0, loss_bb: 1000.9959, w: [0.9821101 0.0178899]
+im_idx: 138, im_id: 001099, victim_class: aeroplane, target_class: cow
+
+
+im_idx: 139, im_id: 001105, victim_class: bottle, target_class: cow
+
+
+im_idx: 140, im_id: 001133, victim_class: sofa, target_class: car
+
+
+im_idx: 140, id: 001133, query: 0, loss_bb: 1000.9922, w: [0.98752737 0.01247263]
+im_idx: 141, im_id: 001138, victim_class: chair, target_class: horse
+
+
+im_idx: 141, id: 001138, query: 2, loss_bb: 1000.6515, w: [0.99773466 0.01468654]
+im_idx: 142, im_id: 001139, victim_class: chair, target_class: dog
+
+
+im_idx: 142, id: 001139, query: 2, loss_bb: 1000.6470, w: [1.00393389 0.01259759]
+im_idx: 143, im_id: 001150, victim_class: person, target_class: tvmonitor
+
+
+im_idx: 143, id: 001150, query: 4, loss_bb: 1000.6455, w: [0.99042364 0.009663  ]
+im_idx: 144, im_id: 001155, victim_class: boat, target_class: dog
+
+
+im_idx: 144, id: 001155, query: 4, loss_bb: 1000.9670, w: [0.97575619 0.02458201]
+im_idx: 145, im_id: 001157, victim_class: person, target_class: aeroplane
+
+
+im_idx: 146, im_id: 001162, victim_class: pottedplant, target_class: bicycle
+
+
+im_idx: 146, id: 001162, query: 7, loss_bb: 1000.7342, w: [0.96041446 0.02224926]
+im_idx: 147, im_id: 001167, victim_class: bottle, target_class: bird
+
+
+im_idx: 148, im_id: 001173, victim_class: cat, target_class: bicycle
+
+
+im_idx: 148, id: 001173, query: 2, loss_bb: 1000.9083, w: [1.00631344 0.01466878]
+im_idx: 149, im_id: 001177, victim_class: person, target_class: bird
+
+
+im_idx: 149, id: 001177, query: 0, loss_bb: 1000.9029, w: [0.98667624 0.01332376]
+im_idx: 150, im_id: 001179, victim_class: tvmonitor, target_class: aeroplane
+
+
+im_idx: 150, id: 001179, query: 0, loss_bb: 1000.8019, w: [0.9915417 0.0084583]
+im_idx: 151, im_id: 001183, victim_class: horse, target_class: bicycle
+
+
+im_idx: 151, id: 001183, query: 0, loss_bb: 1000.7770, w: [0.98888933 0.01111067]
+im_idx: 152, im_id: 001198, victim_class: person, target_class: cat
+
+
+im_idx: 153, im_id: 001220, victim_class: chair, target_class: cat
+
+
+im_idx: 153, id: 001220, query: 0, loss_bb: 1000.8815, w: [0.98106165 0.01893835]
+im_idx: 154, im_id: 001238, victim_class: bicycle, target_class: bus
+
+
+im_idx: 155, im_id: 001245, victim_class: horse, target_class: train
+
+
+im_idx: 155, id: 001245, query: 8, loss_bb: 1000.7625, w: [0.96706801 0.03324942]
+im_idx: 156, im_id: 001267, victim_class: car, target_class: boat
+
+
+im_idx: 156, id: 001267, query: 0, loss_bb: 1000.9375, w: [0.98164065 0.01835935]
+im_idx: 157, im_id: 001296, victim_class: motorbike, target_class: boat
+
+
+im_idx: 157, id: 001296, query: 0, loss_bb: 1000.9879, w: [0.98483035 0.01516965]
+im_idx: 158, im_id: 001301, victim_class: motorbike, target_class: bottle
+
+
+im_idx: 158, id: 001301, query: 0, loss_bb: 1000.8214, w: [0.98386312 0.01613688]
+im_idx: 159, im_id: 001302, victim_class: chair, target_class: sheep
+
+
+im_idx: 160, im_id: 001308, victim_class: person, target_class: diningtable
+
+
+im_idx: 161, im_id: 001319, victim_class: chair, target_class: train
+
+
+im_idx: 161, id: 001319, query: 0, loss_bb: 1000.8220, w: [0.97964544 0.02035456]
+im_idx: 162, im_id: 001320, victim_class: horse, target_class: car
+
+
+im_idx: 163, im_id: 001335, victim_class: person, target_class: cat
+
+
+im_idx: 164, im_id: 001336, victim_class: bicycle, target_class: bottle
+
+
+im_idx: 165, im_id: 001347, victim_class: bottle, target_class: aeroplane
+
+
+im_idx: 166, im_id: 001349, victim_class: chair, target_class: tvmonitor
+
+
+im_idx: 166, id: 001349, query: 0, loss_bb: 1000.9470, w: [0.9830066 0.0169934]
+im_idx: 167, im_id: 001351, victim_class: person, target_class: aeroplane
+
+
+im_idx: 168, im_id: 001353, victim_class: person, target_class: train
+
+
+im_idx: 168, id: 001353, query: 9, loss_bb: 1000.7836, w: [0.96660955 0.03292688]
+im_idx: 169, im_id: 001357, victim_class: motorbike, target_class: sheep
+
+
+im_idx: 170, im_id: 001358, victim_class: person, target_class: chair
+
+
+im_idx: 170, id: 001358, query: 0, loss_bb: 1000.7402, w: [0.98887753 0.01112247]
+im_idx: 171, im_id: 001363, victim_class: person, target_class: car
+
+
+im_idx: 171, id: 001363, query: 0, loss_bb: 1000.8797, w: [0.99165825 0.00834175]
+im_idx: 172, im_id: 001370, victim_class: bicycle, target_class: bottle
+
+
+im_idx: 173, im_id: 001391, victim_class: pottedplant, target_class: boat
+
+
+im_idx: 173, id: 001391, query: 2, loss_bb: 1000.6519, w: [0.99795169 0.0153486 ]
+im_idx: 174, im_id: 001394, victim_class: boat, target_class: train
+
+
+im_idx: 174, id: 001394, query: 4, loss_bb: 1000.7853, w: [0.97897899 0.02139161]
+im_idx: 175, im_id: 001411, victim_class: sofa, target_class: train
+
+
+im_idx: 175, id: 001411, query: 2, loss_bb: 1000.9217, w: [0.99462645 0.01504137]
+im_idx: 176, im_id: 001412, victim_class: horse, target_class: bicycle
+
+
+im_idx: 176, id: 001412, query: 0, loss_bb: 1000.9711, w: [0.97031617 0.02968383]
+im_idx: 177, im_id: 001417, victim_class: bird, target_class: train
+
+
+im_idx: 178, im_id: 001428, victim_class: cat, target_class: motorbike
+
+
+im_idx: 178, id: 001428, query: 0, loss_bb: 1000.9763, w: [0.97359381 0.02640619]
+im_idx: 179, im_id: 001429, victim_class: bottle, target_class: bird
+
+
+im_idx: 179, id: 001429, query: 2, loss_bb: 1000.9910, w: [0.99728704 0.01417219]
+im_idx: 180, im_id: 001431, victim_class: sofa, target_class: tvmonitor
+
+
+im_idx: 181, im_id: 001437, victim_class: pottedplant, target_class: boat
+
+
+im_idx: 181, id: 001437, query: 11, loss_bb: 1000.7762, w: [0.9486599  0.02876452]
+im_idx: 182, im_id: 001446, victim_class: motorbike, target_class: pottedplant
+
+
+im_idx: 182, id: 001446, query: 8, loss_bb: 1000.7467, w: [0.96492622 0.03555014]
+im_idx: 183, im_id: 001447, victim_class: motorbike, target_class: horse
+
+
+im_idx: 183, id: 001447, query: 0, loss_bb: 1000.9970, w: [0.98137491 0.01862509]
+im_idx: 184, im_id: 001452, victim_class: horse, target_class: bus
+
+
+im_idx: 184, id: 001452, query: 7, loss_bb: 1000.8401, w: [0.95941855 0.02542924]
+im_idx: 185, im_id: 001459, victim_class: person, target_class: bird
+
+
+im_idx: 186, im_id: 000825, victim_class: bicycle, target_class: sheep
+
+
+im_idx: 187, im_id: 000994, victim_class: sofa, target_class: car
+
+
+im_idx: 187, id: 000994, query: 0, loss_bb: 1000.9714, w: [0.9777268 0.0222732]
+im_idx: 188, im_id: 001474, victim_class: person, target_class: sofa
+
+
+im_idx: 188, id: 001474, query: 4, loss_bb: 1000.8867, w: [0.98486966 0.01531686]
+im_idx: 189, im_id: 001502, victim_class: person, target_class: horse
+
+
+im_idx: 189, id: 001502, query: 7, loss_bb: 1000.6251, w: [0.95472462 0.03212667]
+im_idx: 190, im_id: 001508, victim_class: bird, target_class: chair
+
+
+im_idx: 191, im_id: 001513, victim_class: tvmonitor, target_class: bicycle
+
+
+im_idx: 191, id: 001513, query: 8, loss_bb: 1000.6039, w: [0.9687728  0.03147287]
+im_idx: 192, im_id: 001516, victim_class: person, target_class: bicycle
+
+
+im_idx: 193, im_id: 001518, victim_class: sofa, target_class: dog
+
+
+im_idx: 193, id: 001518, query: 0, loss_bb: 1000.6415, w: [0.98595248 0.01404752]
+im_idx: 194, im_id: 001519, victim_class: sofa, target_class: motorbike
+
+
+im_idx: 194, id: 001519, query: 3, loss_bb: 1000.8263, w: [0.97356849 0.01303226]
+im_idx: 195, im_id: 001533, victim_class: person, target_class: pottedplant
+
+
+im_idx: 195, id: 001533, query: 0, loss_bb: 1000.9616, w: [0.98793738 0.01206262]
+im_idx: 196, im_id: 001534, victim_class: chair, target_class: dog
+
+
+im_idx: 196, id: 001534, query: 3, loss_bb: 1000.7447, w: [0.97889321 0.00685184]
+im_idx: 197, im_id: 001540, victim_class: pottedplant, target_class: car
+
+
+im_idx: 197, id: 001540, query: 0, loss_bb: 1000.7926, w: [0.99199121 0.00800879]
+im_idx: 198, im_id: 001542, victim_class: person, target_class: motorbike
+
+
+im_idx: 198, id: 001542, query: 0, loss_bb: 1000.9625, w: [0.98656697 0.01343303]
+im_idx: 199, im_id: 001549, victim_class: chair, target_class: aeroplane
+
+
+im_idx: 200, im_id: 001551, victim_class: bottle, target_class: bird
+
+
+im_idx: 201, im_id: 001564, victim_class: person, target_class: chair
+
+
+im_idx: 201, id: 001564, query: 0, loss_bb: 1000.7684, w: [0.9855893 0.0144107]
+im_idx: 202, im_id: 001572, victim_class: car, target_class: horse
+
+
+im_idx: 202, id: 001572, query: 2, loss_bb: 1000.7349, w: [1.00319443 0.0134138 ]
+im_idx: 203, im_id: 001585, victim_class: chair, target_class: train
+
+
+im_idx: 203, id: 001585, query: 2, loss_bb: 1000.7493, w: [0.99756068 0.01438234]
+im_idx: 204, im_id: 001600, victim_class: chair, target_class: dog
+
+
+im_idx: 204, id: 001600, query: 2, loss_bb: 1000.9222, w: [1.00115282 0.01521464]
+im_idx: 205, im_id: 001606, victim_class: person, target_class: pottedplant
+
+
+im_idx: 206, im_id: 001609, victim_class: chair, target_class: bird
+
+
+im_idx: 207, im_id: 001619, victim_class: car, target_class: dog
+
+
+im_idx: 207, id: 001619, query: 3, loss_bb: 1000.7195, w: [0.96553182 0.01414342]
+im_idx: 208, im_id: 001620, victim_class: bicycle, target_class: cat
+
+
+im_idx: 209, im_id: 001625, victim_class: person, target_class: cow
+
+
+im_idx: 210, im_id: 001631, victim_class: bottle, target_class: bus
+
+
+im_idx: 210, id: 001631, query: 3, loss_bb: 1000.7309, w: [0.96286069 0.01085337]
+im_idx: 211, im_id: 001644, victim_class: bus, target_class: diningtable
+
+
+im_idx: 212, im_id: 001652, victim_class: car, target_class: sheep
+
+
+im_idx: 213, im_id: 001666, victim_class: pottedplant, target_class: sheep
+
+
+im_idx: 213, id: 001666, query: 2, loss_bb: 1000.8160, w: [1.01064861 0.00808503]
+im_idx: 214, im_id: 001674, victim_class: chair, target_class: motorbike
+
+
+im_idx: 215, im_id: 001696, victim_class: chair, target_class: train
+
+
+im_idx: 215, id: 001696, query: 2, loss_bb: 1000.6973, w: [0.99313557 0.0184472 ]
+im_idx: 216, im_id: 001703, victim_class: horse, target_class: diningtable
+
+
+im_idx: 216, id: 001703, query: 2, loss_bb: 1000.6876, w: [1.00713197 0.01557127]
+im_idx: 217, im_id: 001705, victim_class: car, target_class: diningtable
+
+
+im_idx: 218, im_id: 001706, victim_class: bottle, target_class: car
+
+
+im_idx: 219, im_id: 001709, victim_class: person, target_class: horse
+
+
+im_idx: 219, id: 001709, query: 0, loss_bb: 1000.8955, w: [0.99170128 0.00829872]
+im_idx: 220, im_id: 001712, victim_class: car, target_class: bird
+
+
+im_idx: 221, im_id: 001728, victim_class: person, target_class: cow
+
+
+im_idx: 221, id: 001728, query: 2, loss_bb: 1000.7520, w: [0.99547287 0.01609168]
+im_idx: 222, im_id: 001731, victim_class: dog, target_class: train
+
+
+im_idx: 222, id: 001731, query: 3, loss_bb: 1000.9012, w: [0.96447303 0.02117546]
+im_idx: 223, im_id: 001735, victim_class: chair, target_class: tvmonitor
+
+
+im_idx: 224, im_id: 001742, victim_class: tvmonitor, target_class: horse
+
+
+im_idx: 225, im_id: 001748, victim_class: bicycle, target_class: bird
+
+
+im_idx: 225, id: 001748, query: 2, loss_bb: 1000.9781, w: [0.99227436 0.02084098]
+im_idx: 226, im_id: 001763, victim_class: chair, target_class: bottle
+
+
+im_idx: 227, im_id: 001769, victim_class: person, target_class: car
+
+
+im_idx: 227, id: 001769, query: 6, loss_bb: 1000.6323, w: [0.99133913 0.02196728]
+im_idx: 228, im_id: 001781, victim_class: bicycle, target_class: train
+
+
+im_idx: 229, im_id: 001794, victim_class: person, target_class: cat
+
+
+im_idx: 229, id: 001794, query: 0, loss_bb: 1000.9643, w: [0.98712088 0.01287912]
+im_idx: 230, im_id: 001802, victim_class: person, target_class: sheep
+
+
+im_idx: 231, im_id: 001805, victim_class: person, target_class: boat
+
+
+im_idx: 231, id: 001805, query: 2, loss_bb: 1000.6272, w: [1.00269719 0.01011544]
+im_idx: 232, im_id: 001808, victim_class: bus, target_class: bottle
+
+
+im_idx: 233, im_id: 001812, victim_class: bottle, target_class: tvmonitor
+
+
+im_idx: 234, im_id: 001813, victim_class: tvmonitor, target_class: diningtable
+
+
+im_idx: 235, im_id: 001819, victim_class: person, target_class: bird
+
+
+im_idx: 235, id: 001819, query: 0, loss_bb: 1000.7962, w: [0.98610232 0.01389768]
+im_idx: 236, im_id: 001824, victim_class: dog, target_class: bottle
+
+
+im_idx: 236, id: 001824, query: 2, loss_bb: 1000.7719, w: [1.00687897 0.01383775]
+im_idx: 237, im_id: 001826, victim_class: sofa, target_class: horse
+
+
+im_idx: 238, im_id: 001850, victim_class: person, target_class: horse
+
+
+im_idx: 238, id: 001850, query: 0, loss_bb: 1000.6215, w: [0.9846823 0.0153177]
+im_idx: 239, im_id: 001851, victim_class: dog, target_class: person
+
+
+im_idx: 239, id: 001851, query: 0, loss_bb: 1000.9981, w: [0.98316765 0.01683235]
+im_idx: 240, im_id: 001871, victim_class: pottedplant, target_class: cow
+
+
+im_idx: 240, id: 001871, query: 4, loss_bb: 1000.8509, w: [0.98666292 0.01345918]
+im_idx: 241, im_id: 001891, victim_class: person, target_class: pottedplant
+
+
+im_idx: 241, id: 001891, query: 5, loss_bb: 1000.6153, w: [0.98677363 0.01302918]
+im_idx: 242, im_id: 001905, victim_class: pottedplant, target_class: diningtable
+
+
+im_idx: 243, im_id: 001914, victim_class: person, target_class: cat
+
+
+im_idx: 243, id: 001914, query: 0, loss_bb: 1000.9978, w: [0.99083925 0.00916075]
+im_idx: 244, im_id: 001935, victim_class: bus, target_class: horse
+
+
+im_idx: 244, id: 001935, query: 0, loss_bb: 1000.7779, w: [0.96717427 0.03282573]
+im_idx: 245, im_id: 001969, victim_class: person, target_class: bicycle
+
+
+im_idx: 245, id: 001969, query: 0, loss_bb: 1000.6643, w: [0.98628514 0.01371486]
+im_idx: 246, im_id: 001988, victim_class: bicycle, target_class: diningtable
+
+
+im_idx: 247, im_id: 001992, victim_class: dog, target_class: sheep
+
+
+im_idx: 247, id: 001992, query: 0, loss_bb: 1000.6489, w: [0.98651938 0.01348062]
+im_idx: 248, im_id: 001998, victim_class: motorbike, target_class: bicycle
+
+
+im_idx: 248, id: 001998, query: 0, loss_bb: 1000.8796, w: [0.9765893 0.0234107]
+im_idx: 249, im_id: 002008, victim_class: bicycle, target_class: sofa
+
+
+im_idx: 250, im_id: 002018, victim_class: sofa, target_class: cow
+
+
+im_idx: 250, id: 002018, query: 0, loss_bb: 1000.7066, w: [0.98727242 0.01272758]
+im_idx: 251, im_id: 002026, victim_class: sofa, target_class: sheep
+
+
+im_idx: 251, id: 002026, query: 0, loss_bb: 1000.9292, w: [0.98806315 0.01193685]
+im_idx: 252, im_id: 002031, victim_class: horse, target_class: bus
+
+
+im_idx: 253, im_id: 002041, victim_class: car, target_class: sofa
+
+
+im_idx: 253, id: 002041, query: 0, loss_bb: 1000.6293, w: [0.98439944 0.01560056]
+im_idx: 254, im_id: 002060, victim_class: bicycle, target_class: aeroplane
+
+
+im_idx: 255, im_id: 002062, victim_class: tvmonitor, target_class: diningtable
+
+
+im_idx: 255, id: 002062, query: 4, loss_bb: 1000.7418, w: [0.98124284 0.0190048 ]
+im_idx: 256, im_id: 002072, victim_class: horse, target_class: car
+
+
+im_idx: 256, id: 002072, query: 0, loss_bb: 1000.7799, w: [0.98151899 0.01848101]
+im_idx: 257, im_id: 002074, victim_class: chair, target_class: diningtable
+
+
+im_idx: 258, im_id: 002081, victim_class: pottedplant, target_class: horse
+
+
+im_idx: 259, im_id: 002105, victim_class: motorbike, target_class: bicycle
+
+
+im_idx: 259, id: 002105, query: 0, loss_bb: 1000.8986, w: [0.97862674 0.02137326]
+im_idx: 260, im_id: 002137, victim_class: sheep, target_class: chair
+
+
+im_idx: 260, id: 002137, query: 0, loss_bb: 1000.7565, w: [0.98931213 0.01068787]
+im_idx: 261, im_id: 002159, victim_class: chair, target_class: aeroplane
+
+
+im_idx: 261, id: 002159, query: 0, loss_bb: 1000.9529, w: [0.99390118 0.00609882]
+im_idx: 262, im_id: 002161, victim_class: pottedplant, target_class: diningtable
+
+
+im_idx: 263, im_id: 001469, victim_class: pottedplant, target_class: cow
+
+
+im_idx: 263, id: 001469, query: 3, loss_bb: 1000.9105, w: [0.97282022 0.01408085]
+im_idx: 264, im_id: 001511, victim_class: person, target_class: aeroplane
+
+
+im_idx: 265, im_id: 001897, victim_class: car, target_class: tvmonitor
+
+
+im_idx: 266, im_id: 002087, victim_class: person, target_class: aeroplane
+
+
+im_idx: 267, im_id: 002177, victim_class: car, target_class: horse
+
+
+im_idx: 268, im_id: 002189, victim_class: person, target_class: bicycle
+
+
+im_idx: 268, id: 002189, query: 0, loss_bb: 1000.8224, w: [0.99177037 0.00822963]
+im_idx: 269, im_id: 002195, victim_class: person, target_class: pottedplant
+
+
+im_idx: 269, id: 002195, query: 0, loss_bb: 1000.9632, w: [0.9779337 0.0220663]
+im_idx: 270, im_id: 002203, victim_class: dog, target_class: bicycle
+
+
+im_idx: 270, id: 002203, query: 2, loss_bb: 1000.8395, w: [1.00101702 0.01878886]
+im_idx: 271, im_id: 002204, victim_class: person, target_class: pottedplant
+
+
+im_idx: 272, im_id: 002207, victim_class: bottle, target_class: sheep
+
+
+im_idx: 273, im_id: 002227, victim_class: tvmonitor, target_class: cow
+
+
+im_idx: 273, id: 002227, query: 2, loss_bb: 1000.9674, w: [1.00026138 0.01138841]
+im_idx: 274, im_id: 002229, victim_class: bus, target_class: cat
+
+
+im_idx: 275, im_id: 002230, victim_class: sofa, target_class: diningtable
+
+
+im_idx: 275, id: 002230, query: 2, loss_bb: 1000.6983, w: [1.01649191 0.01139753]
+im_idx: 276, im_id: 002240, victim_class: bottle, target_class: bus
+
+
+im_idx: 276, id: 002240, query: 0, loss_bb: 1000.6558, w: [0.98598673 0.01401327]
+im_idx: 277, im_id: 002246, victim_class: person, target_class: boat
+
+
+im_idx: 277, id: 002246, query: 2, loss_bb: 1000.7644, w: [1.01157786 0.01124211]
+im_idx: 278, im_id: 002252, victim_class: tvmonitor, target_class: dog
+
+
+im_idx: 279, im_id: 002254, victim_class: dog, target_class: cow
+
+
+im_idx: 279, id: 002254, query: 0, loss_bb: 1000.9822, w: [0.98554438 0.01445562]
+im_idx: 280, im_id: 002269, victim_class: horse, target_class: motorbike
+
+
+im_idx: 280, id: 002269, query: 0, loss_bb: 1000.9951, w: [0.98402742 0.01597258]
+im_idx: 281, im_id: 002283, victim_class: person, target_class: bus
+
+
+im_idx: 282, im_id: 002294, victim_class: person, target_class: sofa
+
+
+im_idx: 282, id: 002294, query: 2, loss_bb: 1000.7951, w: [1.00370063 0.01036782]
+im_idx: 283, im_id: 002314, victim_class: sheep, target_class: sofa
+
+
+im_idx: 284, im_id: 002317, victim_class: person, target_class: dog
+
+
+im_idx: 284, id: 002317, query: 0, loss_bb: 1000.7503, w: [0.99097181 0.00902819]
+im_idx: 285, im_id: 002325, victim_class: person, target_class: car
+
+
+im_idx: 286, im_id: 002326, victim_class: cow, target_class: train
+
+
+im_idx: 287, im_id: 002360, victim_class: horse, target_class: cat
+
+
+im_idx: 287, id: 002360, query: 0, loss_bb: 1000.9503, w: [0.97507213 0.02492787]
+im_idx: 288, im_id: 002379, victim_class: person, target_class: diningtable
+
+
+im_idx: 289, im_id: 002383, victim_class: car, target_class: bicycle
+
+
+im_idx: 290, im_id: 002397, victim_class: bicycle, target_class: car
+
+
+im_idx: 291, im_id: 002402, victim_class: person, target_class: aeroplane
+
+
+im_idx: 292, im_id: 002409, victim_class: horse, target_class: tvmonitor
+
+
+im_idx: 293, im_id: 002421, victim_class: horse, target_class: bird
+
+
+im_idx: 293, id: 002421, query: 0, loss_bb: 1000.9788, w: [0.97795164 0.02204836]
+im_idx: 294, im_id: 002426, victim_class: chair, target_class: bottle
+
+
+im_idx: 294, id: 002426, query: 0, loss_bb: 1000.7967, w: [0.99108622 0.00891378]
+im_idx: 295, im_id: 002428, victim_class: dog, target_class: train
+
+
+im_idx: 295, id: 002428, query: 4, loss_bb: 1000.9473, w: [0.98467087 0.01546973]
+im_idx: 296, im_id: 002429, victim_class: bottle, target_class: motorbike
+
+
+im_idx: 296, id: 002429, query: 2, loss_bb: 1000.6707, w: [1.00150144 0.01401286]
+im_idx: 297, im_id: 002455, victim_class: person, target_class: cow
+
+
+im_idx: 298, im_id: 002463, victim_class: person, target_class: motorbike
+
+
+im_idx: 299, im_id: 002467, victim_class: person, target_class: motorbike
+
+
+im_idx: 300, im_id: 002469, victim_class: tvmonitor, target_class: car
+
+
+im_idx: 300, id: 002469, query: 0, loss_bb: 1000.8553, w: [0.98446858 0.01553142]
+im_idx: 301, im_id: 002499, victim_class: bottle, target_class: sofa
+
+
+im_idx: 302, im_id: 002503, victim_class: person, target_class: dog
+
+
+im_idx: 302, id: 002503, query: 0, loss_bb: 1000.9546, w: [0.9885967 0.0114033]
+im_idx: 303, im_id: 002531, victim_class: car, target_class: train
+
+
+im_idx: 304, im_id: 002532, victim_class: car, target_class: pottedplant
+
+
+im_idx: 304, id: 002532, query: 6, loss_bb: 1000.6190, w: [0.97595165 0.03546289]
+im_idx: 305, im_id: 002536, victim_class: bottle, target_class: sofa
+
+
+im_idx: 306, im_id: 002538, victim_class: bottle, target_class: horse
+
+
+im_idx: 307, im_id: 002568, victim_class: motorbike, target_class: bicycle
+
+
+im_idx: 307, id: 002568, query: 0, loss_bb: 1000.9975, w: [0.99239106 0.00760894]
+im_idx: 308, im_id: 002596, victim_class: person, target_class: motorbike
+
+
+im_idx: 308, id: 002596, query: 0, loss_bb: 1000.8212, w: [0.98426535 0.01573465]
+im_idx: 309, im_id: 002602, victim_class: car, target_class: sofa
+
+
+im_idx: 309, id: 002602, query: 0, loss_bb: 1000.7152, w: [0.98246694 0.01753306]
+im_idx: 310, im_id: 002624, victim_class: train, target_class: dog
+
+
+im_idx: 310, id: 002624, query: 0, loss_bb: 1000.7038, w: [0.98764494 0.01235506]
+im_idx: 311, im_id: 002628, victim_class: boat, target_class: dog
+
+
+im_idx: 312, im_id: 002638, victim_class: tvmonitor, target_class: person
+
+
+im_idx: 312, id: 002638, query: 2, loss_bb: 1000.7453, w: [0.99174603 0.02155223]
+im_idx: 313, im_id: 002639, victim_class: chair, target_class: cow
+
+
+im_idx: 313, id: 002639, query: 3, loss_bb: 1000.7968, w: [0.97119521 0.01177957]
+im_idx: 314, im_id: 002644, victim_class: pottedplant, target_class: car
+
+
+im_idx: 314, id: 002644, query: 0, loss_bb: 1000.9112, w: [0.98871231 0.01128769]
+im_idx: 315, im_id: 002652, victim_class: person, target_class: car
+
+
+im_idx: 315, id: 002652, query: 0, loss_bb: 1000.6259, w: [0.97825777 0.02174223]
+im_idx: 316, im_id: 002655, victim_class: horse, target_class: motorbike
+
+
+im_idx: 316, id: 002655, query: 0, loss_bb: 1000.9047, w: [0.98785025 0.01214975]
+im_idx: 317, im_id: 002656, victim_class: pottedplant, target_class: chair
+
+
+im_idx: 317, id: 002656, query: 6, loss_bb: 1000.7100, w: [0.99539889 0.02311215]
+im_idx: 318, im_id: 002665, victim_class: person, target_class: sofa
+
+
+im_idx: 319, im_id: 002673, victim_class: sofa, target_class: bicycle
+
+
+im_idx: 319, id: 002673, query: 0, loss_bb: 1000.9889, w: [0.98732881 0.01267119]
+im_idx: 320, im_id: 002686, victim_class: person, target_class: boat
+
+
+im_idx: 321, im_id: 002692, victim_class: horse, target_class: tvmonitor
+
+
+im_idx: 322, im_id: 002700, victim_class: bus, target_class: sheep
+
+
+im_idx: 323, im_id: 002703, victim_class: car, target_class: cow
+
+
+im_idx: 323, id: 002703, query: 0, loss_bb: 1000.7683, w: [0.97856217 0.02143783]
+im_idx: 324, im_id: 002708, victim_class: chair, target_class: horse
+
+
+im_idx: 324, id: 002708, query: 2, loss_bb: 1000.9184, w: [0.99363179 0.01820796]
+im_idx: 325, im_id: 002711, victim_class: bottle, target_class: chair
+
+
+im_idx: 325, id: 002711, query: 0, loss_bb: 1000.8622, w: [0.98766171 0.01233829]
+im_idx: 326, im_id: 002712, victim_class: bottle, target_class: car
+
+
+im_idx: 326, id: 002712, query: 4, loss_bb: 1000.7085, w: [0.98581347 0.01435659]
+im_idx: 327, im_id: 002739, victim_class: person, target_class: sofa
+
+
+im_idx: 328, im_id: 002743, victim_class: pottedplant, target_class: diningtable
+
+
+im_idx: 328, id: 002743, query: 2, loss_bb: 1000.6393, w: [1.00818734 0.01295198]
+im_idx: 329, im_id: 002748, victim_class: bus, target_class: bird
+
+
+im_idx: 330, im_id: 002752, victim_class: chair, target_class: motorbike
+
+
+im_idx: 330, id: 002752, query: 0, loss_bb: 1000.8779, w: [0.99153342 0.00846658]
+im_idx: 331, im_id: 002768, victim_class: dog, target_class: bus
+
+
+im_idx: 332, im_id: 002780, victim_class: horse, target_class: chair
+
+
+im_idx: 332, id: 002780, query: 6, loss_bb: 1000.7056, w: [0.99546287 0.02728292]
+im_idx: 333, im_id: 002789, victim_class: horse, target_class: diningtable
+
+
+im_idx: 334, im_id: 002793, victim_class: car, target_class: dog
+
+
+im_idx: 335, im_id: 002797, victim_class: bicycle, target_class: car
+
+
+im_idx: 336, im_id: 002799, victim_class: pottedplant, target_class: cow
+
+
+im_idx: 336, id: 002799, query: 0, loss_bb: 1000.9296, w: [0.99045406 0.00954594]
+im_idx: 337, im_id: 002806, victim_class: motorbike, target_class: car
+
+
+im_idx: 337, id: 002806, query: 0, loss_bb: 1000.7031, w: [0.96935669 0.03064331]
+im_idx: 338, im_id: 002809, victim_class: diningtable, target_class: bicycle
+
+
+im_idx: 338, id: 002809, query: 0, loss_bb: 1000.7823, w: [0.98008298 0.01991702]
+im_idx: 339, im_id: 002813, victim_class: chair, target_class: dog
+
+
+im_idx: 339, id: 002813, query: 4, loss_bb: 1000.6526, w: [0.98264113 0.01749546]
+im_idx: 340, im_id: 002819, victim_class: horse, target_class: sofa
+
+
+im_idx: 341, im_id: 002821, victim_class: person, target_class: sheep
+
+
+im_idx: 341, id: 002821, query: 2, loss_bb: 1000.7765, w: [1.00392561 0.01232113]
+im_idx: 342, im_id: 002830, victim_class: motorbike, target_class: boat
+
+
+im_idx: 342, id: 002830, query: 0, loss_bb: 1000.9838, w: [0.98268215 0.01731785]
+im_idx: 343, im_id: 002846, victim_class: chair, target_class: sheep
+
+
+im_idx: 343, id: 002846, query: 11, loss_bb: 1000.6019, w: [0.945043  0.0411094]
+im_idx: 344, im_id: 002850, victim_class: tvmonitor, target_class: car
+
+
+im_idx: 344, id: 002850, query: 0, loss_bb: 1000.6343, w: [0.98758178 0.01241822]
+im_idx: 345, im_id: 002856, victim_class: person, target_class: bird
+
+
+im_idx: 346, im_id: 002857, victim_class: bottle, target_class: bird
+
+
+im_idx: 346, id: 002857, query: 0, loss_bb: 1000.8380, w: [0.99416865 0.00583135]
+im_idx: 347, im_id: 002860, victim_class: bicycle, target_class: train
+
+
+im_idx: 347, id: 002860, query: 0, loss_bb: 1000.7876, w: [0.98451443 0.01548557]
+im_idx: 348, im_id: 002862, victim_class: chair, target_class: tvmonitor
+
+
+im_idx: 348, id: 002862, query: 3, loss_bb: 1000.6432, w: [0.96967636 0.01593917]
+im_idx: 349, im_id: 002865, victim_class: bus, target_class: cow
+
+
+im_idx: 349, id: 002865, query: 5, loss_bb: 1000.7331, w: [0.98097738 0.01875926]
+im_idx: 350, im_id: 002874, victim_class: sofa, target_class: dog
+
+
+im_idx: 350, id: 002874, query: 0, loss_bb: 1000.7881, w: [0.97785183 0.02214817]
+im_idx: 351, im_id: 002885, victim_class: sofa, target_class: bird
+
+
+im_idx: 351, id: 002885, query: 0, loss_bb: 1000.9539, w: [0.98994072 0.01005928]
+im_idx: 352, im_id: 002887, victim_class: sofa, target_class: bicycle
+
+
+im_idx: 352, id: 002887, query: 0, loss_bb: 1000.7157, w: [0.97820784 0.02179216]
+im_idx: 353, im_id: 002890, victim_class: person, target_class: sofa
+
+
+im_idx: 354, im_id: 002904, victim_class: person, target_class: aeroplane
+
+
+im_idx: 355, im_id: 002905, victim_class: tvmonitor, target_class: bottle
+
+
+im_idx: 355, id: 002905, query: 0, loss_bb: 1000.7753, w: [0.98206692 0.01793308]
+im_idx: 356, im_id: 002909, victim_class: horse, target_class: dog
+
+
+im_idx: 356, id: 002909, query: 0, loss_bb: 1000.9602, w: [0.97863614 0.02136386]
+im_idx: 357, im_id: 002921, victim_class: horse, target_class: car
+
+
+im_idx: 357, id: 002921, query: 2, loss_bb: 1000.8106, w: [0.99576759 0.02079927]
+im_idx: 358, im_id: 002650, victim_class: chair, target_class: bottle
+
+
+im_idx: 358, id: 002650, query: 10, loss_bb: 1000.7348, w: [0.98464676 0.02958838]
+im_idx: 359, im_id: 002731, victim_class: bicycle, target_class: dog
+
+
+im_idx: 359, id: 002731, query: 2, loss_bb: 1000.9194, w: [0.99761032 0.01836043]
+im_idx: 360, im_id: 002945, victim_class: bottle, target_class: tvmonitor
+
+
+im_idx: 361, im_id: 002951, victim_class: tvmonitor, target_class: aeroplane
+
+
+im_idx: 361, id: 002951, query: 2, loss_bb: 1000.9820, w: [1.00523676 0.0098109 ]
+im_idx: 362, im_id: 002955, victim_class: bus, target_class: pottedplant
+
+
+im_idx: 362, id: 002955, query: 4, loss_bb: 1000.6222, w: [0.97760033 0.02280484]
+im_idx: 363, im_id: 002964, victim_class: person, target_class: bottle
+
+
+im_idx: 363, id: 002964, query: 0, loss_bb: 1000.8148, w: [0.98748218 0.01251782]
+im_idx: 364, im_id: 002971, victim_class: person, target_class: cat
+
+
+im_idx: 365, im_id: 002982, victim_class: bottle, target_class: train
+
+
+im_idx: 365, id: 002982, query: 0, loss_bb: 1000.8750, w: [0.98929866 0.01070134]
+im_idx: 366, im_id: 002993, victim_class: car, target_class: diningtable
+
+
+im_idx: 367, im_id: 002998, victim_class: train, target_class: bird
+
+
+im_idx: 368, im_id: 003022, victim_class: horse, target_class: pottedplant
+
+
+im_idx: 369, im_id: 003025, victim_class: sheep, target_class: boat
+
+
+im_idx: 369, id: 003025, query: 0, loss_bb: 1000.6486, w: [0.97597915 0.02402085]
+im_idx: 370, im_id: 003029, victim_class: sofa, target_class: diningtable
+
+
+im_idx: 370, id: 003029, query: 0, loss_bb: 1000.7023, w: [0.98772116 0.01227884]
+im_idx: 371, im_id: 003041, victim_class: person, target_class: cat
+
+
+im_idx: 371, id: 003041, query: 0, loss_bb: 1000.8059, w: [0.98792335 0.01207665]
+im_idx: 372, im_id: 003050, victim_class: sheep, target_class: train
+
+
+im_idx: 372, id: 003050, query: 2, loss_bb: 1000.7199, w: [0.98622386 0.02410765]
+im_idx: 373, im_id: 003073, victim_class: boat, target_class: diningtable
+
+
+im_idx: 374, im_id: 003101, victim_class: bus, target_class: sofa
+
+
+im_idx: 374, id: 003101, query: 11, loss_bb: 1000.6700, w: [0.95305524 0.02868456]
+im_idx: 375, im_id: 003113, victim_class: pottedplant, target_class: sheep
+
+
+im_idx: 376, im_id: 003151, victim_class: bicycle, target_class: car
+
+
+im_idx: 377, im_id: 003160, victim_class: aeroplane, target_class: sheep
+
+
+im_idx: 377, id: 003160, query: 2, loss_bb: 1000.8962, w: [0.99730287 0.0205253 ]
+im_idx: 378, im_id: 003173, victim_class: horse, target_class: cow
+
+
+im_idx: 378, id: 003173, query: 0, loss_bb: 1000.8061, w: [0.98975898 0.01024102]
+im_idx: 379, im_id: 003179, victim_class: person, target_class: chair
+
+
+im_idx: 379, id: 003179, query: 0, loss_bb: 1000.7245, w: [0.98183532 0.01816468]
+im_idx: 380, im_id: 003182, victim_class: person, target_class: chair
+
+
+im_idx: 380, id: 003182, query: 0, loss_bb: 1000.9653, w: [0.98281805 0.01718195]
+im_idx: 381, im_id: 003187, victim_class: horse, target_class: motorbike
+
+
+im_idx: 381, id: 003187, query: 0, loss_bb: 1000.8278, w: [0.97997369 0.02002631]
+im_idx: 382, im_id: 003193, victim_class: person, target_class: bicycle
+
+
+im_idx: 383, im_id: 003206, victim_class: sofa, target_class: tvmonitor
+
+
+im_idx: 384, im_id: 003221, victim_class: sofa, target_class: train
+
+
+im_idx: 384, id: 003221, query: 0, loss_bb: 1000.9427, w: [0.97986548 0.02013452]
+im_idx: 385, im_id: 003224, victim_class: dog, target_class: cat
+
+
+im_idx: 385, id: 003224, query: 0, loss_bb: 1000.9703, w: [0.99029381 0.00970619]
+im_idx: 386, im_id: 003232, victim_class: horse, target_class: car
+
+
+im_idx: 386, id: 003232, query: 4, loss_bb: 1000.8413, w: [0.9775154  0.02273536]
+im_idx: 387, im_id: 003235, victim_class: horse, target_class: diningtable
+
+
+im_idx: 388, im_id: 003237, victim_class: person, target_class: aeroplane
+
+
+im_idx: 389, im_id: 003245, victim_class: person, target_class: horse
+
+
+im_idx: 389, id: 003245, query: 2, loss_bb: 1000.7603, w: [1.01168811 0.00719943]
+im_idx: 390, im_id: 003251, victim_class: chair, target_class: car
+
+
+im_idx: 391, im_id: 003252, victim_class: person, target_class: dog
+
+
+im_idx: 391, id: 003252, query: 0, loss_bb: 1000.9828, w: [0.98960041 0.01039959]
+im_idx: 392, im_id: 003278, victim_class: chair, target_class: cat
+
+
+im_idx: 392, id: 003278, query: 4, loss_bb: 1000.9701, w: [0.98113307 0.01904334]
+im_idx: 393, im_id: 003295, victim_class: person, target_class: motorbike
+
+
+im_idx: 393, id: 003295, query: 0, loss_bb: 1000.9384, w: [0.98105822 0.01894178]
+im_idx: 394, im_id: 003297, victim_class: chair, target_class: car
+
+
+im_idx: 394, id: 003297, query: 0, loss_bb: 1000.7419, w: [0.98918789 0.01081211]
+im_idx: 395, im_id: 003302, victim_class: person, target_class: bicycle
+
+
+im_idx: 396, im_id: 003304, victim_class: horse, target_class: bus
+
+
+im_idx: 397, im_id: 003322, victim_class: chair, target_class: bicycle
+
+
+im_idx: 397, id: 003322, query: 0, loss_bb: 1000.8965, w: [0.98181152 0.01818848]
+im_idx: 398, im_id: 003328, victim_class: car, target_class: sheep
+
+
+im_idx: 399, im_id: 003340, victim_class: motorbike, target_class: sofa
+
+
+im_idx: 399, id: 003340, query: 2, loss_bb: 1000.8355, w: [0.99409957 0.02284718]
+im_idx: 400, im_id: 003346, victim_class: bicycle, target_class: train
+
+
+im_idx: 400, id: 003346, query: 9, loss_bb: 1000.7629, w: [0.97122308 0.02857244]
+im_idx: 401, im_id: 003352, victim_class: person, target_class: motorbike
+
+
+im_idx: 401, id: 003352, query: 0, loss_bb: 1000.8859, w: [0.98989559 0.01010441]
+im_idx: 402, im_id: 003384, victim_class: dog, target_class: bottle
+
+
+im_idx: 402, id: 003384, query: 0, loss_bb: 1000.8533, w: [0.98837772 0.01162228]
+im_idx: 403, im_id: 003399, victim_class: person, target_class: aeroplane
+
+
+im_idx: 403, id: 003399, query: 0, loss_bb: 1000.8707, w: [0.98813861 0.01186139]
+im_idx: 404, im_id: 003414, victim_class: person, target_class: cat
+
+
+im_idx: 405, im_id: 003418, victim_class: dog, target_class: cat
+
+
+im_idx: 405, id: 003418, query: 0, loss_bb: 1000.9971, w: [0.99313421 0.00686579]
+im_idx: 406, im_id: 003423, victim_class: person, target_class: sheep
+
+
+im_idx: 406, id: 003423, query: 3, loss_bb: 1000.6727, w: [0.97114953 0.01518473]
+im_idx: 407, im_id: 003431, victim_class: bottle, target_class: car
+
+
+im_idx: 408, im_id: 003479, victim_class: person, target_class: aeroplane
+
+
+im_idx: 409, im_id: 003481, victim_class: car, target_class: bottle
+
+
+im_idx: 410, im_id: 003482, victim_class: person, target_class: cat
+
+
+im_idx: 410, id: 003482, query: 0, loss_bb: 1000.9885, w: [0.98277371 0.01722629]
+im_idx: 411, im_id: 003488, victim_class: pottedplant, target_class: chair
+
+
+im_idx: 411, id: 003488, query: 0, loss_bb: 1000.7253, w: [0.99171431 0.00828569]
+im_idx: 412, im_id: 003494, victim_class: person, target_class: bird
+
+
+im_idx: 412, id: 003494, query: 0, loss_bb: 1000.9970, w: [0.98629891 0.01370109]
+im_idx: 413, im_id: 003503, victim_class: person, target_class: horse
+
+
+im_idx: 413, id: 003503, query: 2, loss_bb: 1000.8271, w: [1.00327482 0.01369412]
+im_idx: 414, im_id: 003505, victim_class: motorbike, target_class: cow
+
+
+im_idx: 414, id: 003505, query: 0, loss_bb: 1000.9168, w: [0.98458115 0.01541885]
+im_idx: 415, im_id: 003512, victim_class: car, target_class: sofa
+
+
+im_idx: 416, im_id: 003515, victim_class: person, target_class: aeroplane
+
+
+im_idx: 417, im_id: 003517, victim_class: person, target_class: sheep
+
+
+im_idx: 418, im_id: 003526, victim_class: bottle, target_class: person
+
+
+im_idx: 418, id: 003526, query: 0, loss_bb: 1000.8446, w: [0.99072068 0.00927932]
+im_idx: 419, im_id: 003527, victim_class: person, target_class: train
+
+
+im_idx: 420, im_id: 003531, victim_class: horse, target_class: bottle
+
+
+im_idx: 421, im_id: 003532, victim_class: sofa, target_class: aeroplane
+
+
+im_idx: 421, id: 003532, query: 3, loss_bb: 1000.6313, w: [0.96867819 0.01535212]
+im_idx: 422, im_id: 003534, victim_class: person, target_class: dog
+
+
+im_idx: 422, id: 003534, query: 7, loss_bb: 1000.6079, w: [0.95732634 0.02360771]
+im_idx: 423, im_id: 003538, victim_class: motorbike, target_class: tvmonitor
+
+
+im_idx: 423, id: 003538, query: 2, loss_bb: 1000.7417, w: [0.98593756 0.0283541 ]
+im_idx: 424, im_id: 003547, victim_class: person, target_class: car
+
+
+im_idx: 425, im_id: 003562, victim_class: car, target_class: bus
+
+
+im_idx: 426, im_id: 003563, victim_class: person, target_class: cow
+
+
+im_idx: 427, im_id: 003584, victim_class: horse, target_class: boat
+
+
+im_idx: 427, id: 003584, query: 0, loss_bb: 1000.6507, w: [0.97421364 0.02578636]
+im_idx: 428, im_id: 003592, victim_class: dog, target_class: train
+
+
+im_idx: 428, id: 003592, query: 0, loss_bb: 1000.9808, w: [0.97945152 0.02054848]
+im_idx: 429, im_id: 003601, victim_class: person, target_class: aeroplane
+
+
+im_idx: 430, im_id: 003617, victim_class: chair, target_class: train
+
+
+im_idx: 430, id: 003617, query: 0, loss_bb: 1000.7805, w: [0.98340645 0.01659355]
+im_idx: 431, im_id: 003643, victim_class: chair, target_class: boat
+
+
+im_idx: 432, im_id: 003650, victim_class: chair, target_class: cow
+
+
+im_idx: 432, id: 003650, query: 0, loss_bb: 1000.8714, w: [0.98012268 0.01987732]
+im_idx: 433, im_id: 003670, victim_class: motorbike, target_class: tvmonitor
+
+
+im_idx: 433, id: 003670, query: 9, loss_bb: 1000.6604, w: [0.95277334 0.04679842]
+im_idx: 434, im_id: 002972, victim_class: bottle, target_class: horse
+
+
+im_idx: 435, im_id: 003309, victim_class: bottle, target_class: motorbike
+
+
+im_idx: 435, id: 003309, query: 3, loss_bb: 1000.6274, w: [0.97538369 0.01072589]
+im_idx: 436, im_id: 003385, victim_class: car, target_class: sheep
+
+
+im_idx: 437, im_id: 000697, victim_class: bicycle, target_class: car
+
+
+im_idx: 438, im_id: 003619, victim_class: person, target_class: boat
+
+
+im_idx: 439, im_id: 004348, victim_class: chair, target_class: car
+
+
+im_idx: 439, id: 004348, query: 0, loss_bb: 1000.9711, w: [0.98529353 0.01470647]
+im_idx: 440, im_id: 003676, victim_class: pottedplant, target_class: bottle
+
+
+im_idx: 441, im_id: 003677, victim_class: car, target_class: boat
+
+
+im_idx: 441, id: 003677, query: 0, loss_bb: 1000.9735, w: [0.98675915 0.01324085]
+im_idx: 442, im_id: 003687, victim_class: train, target_class: car
+
+
+im_idx: 443, im_id: 003701, victim_class: person, target_class: pottedplant
+
+
+im_idx: 444, im_id: 003720, victim_class: person, target_class: tvmonitor
+
+
+im_idx: 445, im_id: 003725, victim_class: person, target_class: boat
+
+
+im_idx: 445, id: 003725, query: 0, loss_bb: 1000.6217, w: [0.99204083 0.00795917]
+im_idx: 446, im_id: 003730, victim_class: motorbike, target_class: diningtable
+
+
+im_idx: 447, im_id: 003734, victim_class: horse, target_class: diningtable
+
+
+im_idx: 448, im_id: 003737, victim_class: person, target_class: tvmonitor
+
+
+im_idx: 448, id: 003737, query: 2, loss_bb: 1000.7705, w: [1.00780879 0.00792055]
+im_idx: 449, im_id: 003746, victim_class: person, target_class: chair
+
+
+im_idx: 449, id: 003746, query: 0, loss_bb: 1000.7504, w: [0.98434589 0.01565411]
+im_idx: 450, im_id: 003755, victim_class: chair, target_class: dog
+
+
+im_idx: 450, id: 003755, query: 5, loss_bb: 1000.6579, w: [0.98182857 0.01799943]
+im_idx: 451, im_id: 003761, victim_class: pottedplant, target_class: horse
+
+
+im_idx: 452, im_id: 003764, victim_class: horse, target_class: bus
+
+
+im_idx: 453, im_id: 003766, victim_class: bicycle, target_class: tvmonitor
+
+
+im_idx: 454, im_id: 003768, victim_class: bicycle, target_class: dog
+
+
+im_idx: 455, im_id: 003770, victim_class: chair, target_class: train
+
+
+im_idx: 455, id: 003770, query: 2, loss_bb: 1000.6432, w: [1.00749742 0.00487763]
+im_idx: 456, im_id: 003776, victim_class: bottle, target_class: person
+
+
+im_idx: 457, im_id: 003778, victim_class: pottedplant, target_class: train
+
+
+im_idx: 457, id: 003778, query: 0, loss_bb: 1000.7380, w: [0.99016736 0.00983264]
+im_idx: 458, im_id: 003782, victim_class: sofa, target_class: train
+
+
+im_idx: 458, id: 003782, query: 0, loss_bb: 1000.9511, w: [0.98650956 0.01349044]
+im_idx: 459, im_id: 003787, victim_class: pottedplant, target_class: boat
+
+
+im_idx: 459, id: 003787, query: 0, loss_bb: 1000.6344, w: [0.98654907 0.01345093]
+im_idx: 460, im_id: 003795, victim_class: person, target_class: chair
+
+
+im_idx: 460, id: 003795, query: 0, loss_bb: 1000.7012, w: [0.98780531 0.01219469]
+im_idx: 461, im_id: 003810, victim_class: person, target_class: bottle
+
+
+im_idx: 462, im_id: 003815, victim_class: person, target_class: diningtable
+
+
+im_idx: 463, im_id: 003819, victim_class: dog, target_class: sofa
+
+
+im_idx: 463, id: 003819, query: 0, loss_bb: 1000.9099, w: [0.99002288 0.00997712]
+im_idx: 464, im_id: 003825, victim_class: bottle, target_class: motorbike
+
+
+im_idx: 464, id: 003825, query: 4, loss_bb: 1000.6805, w: [0.97903373 0.02113793]
+im_idx: 465, im_id: 003829, victim_class: person, target_class: motorbike
+
+
+im_idx: 466, im_id: 003839, victim_class: person, target_class: bottle
+
+
+im_idx: 466, id: 003839, query: 3, loss_bb: 1000.7484, w: [0.9669243 0.0205925]
+im_idx: 467, im_id: 003851, victim_class: person, target_class: boat
+
+
+im_idx: 468, im_id: 003852, victim_class: horse, target_class: bus
+
+
+im_idx: 469, im_id: 003867, victim_class: bicycle, target_class: bus
+
+
+im_idx: 470, im_id: 003884, victim_class: person, target_class: cat
+
+
+im_idx: 470, id: 003884, query: 0, loss_bb: 1000.8450, w: [0.98915056 0.01084944]
+im_idx: 471, im_id: 003894, victim_class: chair, target_class: cow
+
+
+im_idx: 471, id: 003894, query: 2, loss_bb: 1000.8005, w: [1.01914371 0.00399314]
+im_idx: 472, im_id: 003902, victim_class: chair, target_class: train
+
+
+im_idx: 473, im_id: 003928, victim_class: diningtable, target_class: cat
+
+
+im_idx: 473, id: 003928, query: 0, loss_bb: 1000.9134, w: [0.97505366 0.02494634]
+im_idx: 474, im_id: 003929, victim_class: person, target_class: car
+
+
+im_idx: 474, id: 003929, query: 2, loss_bb: 1000.7409, w: [0.99836207 0.01705963]
+im_idx: 475, im_id: 003934, victim_class: tvmonitor, target_class: chair
+
+
+im_idx: 475, id: 003934, query: 0, loss_bb: 1000.9405, w: [0.99099072 0.00900928]
+im_idx: 476, im_id: 003942, victim_class: bottle, target_class: cat
+
+
+im_idx: 476, id: 003942, query: 2, loss_bb: 1000.9381, w: [1.00525511 0.01649433]
+im_idx: 477, im_id: 003944, victim_class: bottle, target_class: bird
+
+
+im_idx: 478, im_id: 003955, victim_class: person, target_class: aeroplane
+
+
+im_idx: 479, im_id: 003976, victim_class: bicycle, target_class: bottle
+
+
+im_idx: 480, im_id: 003978, victim_class: person, target_class: sofa
+
+
+im_idx: 481, im_id: 003981, victim_class: tvmonitor, target_class: horse
+
+
+im_idx: 481, id: 003981, query: 0, loss_bb: 1000.7107, w: [0.96763845 0.03236155]
+im_idx: 482, im_id: 004004, victim_class: diningtable, target_class: cat
+
+
+im_idx: 482, id: 004004, query: 0, loss_bb: 1000.6192, w: [0.98487525 0.01512475]
+im_idx: 483, im_id: 004029, victim_class: sofa, target_class: bicycle
+
+
+im_idx: 483, id: 004029, query: 0, loss_bb: 1000.6089, w: [0.98293288 0.01706712]
+im_idx: 484, im_id: 004030, victim_class: car, target_class: boat
+
+
+im_idx: 484, id: 004030, query: 0, loss_bb: 1000.9707, w: [0.9813159 0.0186841]
+im_idx: 485, im_id: 004043, victim_class: person, target_class: cow
+
+
+im_idx: 485, id: 004043, query: 2, loss_bb: 1000.9017, w: [1.00961447 0.0084248 ]
+im_idx: 486, im_id: 004045, victim_class: sofa, target_class: person
+
+
+im_idx: 486, id: 004045, query: 0, loss_bb: 1000.7881, w: [0.98583167 0.01416833]
+im_idx: 487, im_id: 004053, victim_class: chair, target_class: car
+
+
+im_idx: 488, im_id: 004064, victim_class: tvmonitor, target_class: bus
+
+
+im_idx: 488, id: 004064, query: 3, loss_bb: 1000.8209, w: [0.96361049 0.01773495]
+im_idx: 489, im_id: 004084, victim_class: horse, target_class: chair
+
+
+im_idx: 489, id: 004084, query: 0, loss_bb: 1000.7161, w: [0.98239828 0.01760172]
+im_idx: 490, im_id: 004094, victim_class: car, target_class: cow
+
+
+im_idx: 491, im_id: 004098, victim_class: chair, target_class: train
+
+
+im_idx: 491, id: 004098, query: 0, loss_bb: 1000.9794, w: [0.99076637 0.00923363]
+im_idx: 492, im_id: 004099, victim_class: bus, target_class: bicycle
+
+
+im_idx: 492, id: 004099, query: 2, loss_bb: 1000.8215, w: [0.99842814 0.01817266]
+im_idx: 493, im_id: 004101, victim_class: bicycle, target_class: train
+
+
+im_idx: 494, im_id: 004103, victim_class: person, target_class: pottedplant
+
+
+im_idx: 495, im_id: 004116, victim_class: cat, target_class: motorbike
+
+
+im_idx: 495, id: 004116, query: 0, loss_bb: 1000.9972, w: [0.98799236 0.01200764]
+im_idx: 496, im_id: 004119, victim_class: chair, target_class: horse
+
+
+im_idx: 496, id: 004119, query: 5, loss_bb: 1000.6090, w: [0.97552355 0.02412601]
+im_idx: 497, im_id: 004139, victim_class: chair, target_class: bird
+
+
+im_idx: 497, id: 004139, query: 2, loss_bb: 1000.6691, w: [1.00167522 0.01778004]
+im_idx: 498, im_id: 004167, victim_class: person, target_class: aeroplane
+
+
+im_idx: 498, id: 004167, query: 8, loss_bb: 1000.6152, w: [0.98033482 0.01973346]
+im_idx: 499, im_id: 004177, victim_class: horse, target_class: bus
+
+
+im_idx: 499, id: 004177, query: 4, loss_bb: 1000.6268, w: [0.97808658 0.0222091 ]
