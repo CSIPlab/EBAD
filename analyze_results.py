@@ -60,7 +60,7 @@ no_balancing = False
 eps = 10
 
 victim_names = ['RetinaNet', 'Libra R-CNN', 'FoveaBox', 'FreeAnchor', 'DETR']
-max_count = 5 # max 5 queries, max cut-off number of counts is 6
+max_count = 6 # max 5 queries, max cut-off number of counts is 6
 
 success_rates_list = []
 count_dict = defaultdict(list)
