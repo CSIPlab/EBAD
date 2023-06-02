@@ -106,5 +106,18 @@ def simple_test(self, img, img_meta, rescale=True):
 To perform attacks on object detection and segmentation jointly, run ```python attack_bb_det_seg.py```.
 
 
+## Citation
+```
+@InProceedings{Cai_2023_CVPR,
+    author    = {Cai, Zikui and Tan, Yaoteng and Asif, M. Salman},
+    title     = {Ensemble-Based Blackbox Attacks on Dense Prediction},
+    booktitle = {Proceedings of the IEEE/CVF Conference on Computer Vision and Pattern Recognition (CVPR)},
+    month     = {June},
+    year      = {2023},
+    pages     = {4045-4055}
+}
+```
+
+
 ## Acknowledgement
 We thank the models support from [MMCV](https://github.com/open-mmlab/mmcv).
