@@ -108,7 +108,7 @@ To perform attacks on object detection and segmentation jointly, run ```python a
 
 ## Citation
 ```
-@InProceedings{Cai_2023_CVPR,
+@InProceedings{cai2023ensemble,
     author    = {Cai, Zikui and Tan, Yaoteng and Asif, M. Salman},
     title     = {Ensemble-Based Blackbox Attacks on Dense Prediction},
     booktitle = {Proceedings of the IEEE/CVF Conference on Computer Vision and Pattern Recognition (CVPR)},
